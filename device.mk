@@ -34,7 +34,8 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    libshims_qcamera-daemon
+    libshims_qcamera-daemon \
+    GoogleCamera
 
 # Fingerprint
 PRODUCT_PACKAGES += \
